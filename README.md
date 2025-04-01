@@ -5,3 +5,4 @@ Desarrollo tp1 PV
 
 1. Vilte Luis Fernando - usuario: luivilte 
 2. Valeriano Hernán Joaquín - usuario: ValerianoHJ
+3. Galarza Torres Maria - usuario: MajoGT2015
