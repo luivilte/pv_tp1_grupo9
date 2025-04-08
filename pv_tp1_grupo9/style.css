@@ -17,3 +17,8 @@ h1  {
    padding: 0;
    box-sizing: border-box;
 }
+h2{
+   color:blueviolet;
+   text-decoration: underline;
+
+}
