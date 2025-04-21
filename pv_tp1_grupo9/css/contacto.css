@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+    color: #901f09;
+    background: linear-gradient(135deg, #27191f, #c7c5d8) fixed;
+    text-align: center;
+}
+h4 {
+    color: #f3f7f8;
+    font-size: 0,9rem ;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+input[type="text"], input[type="email"], textarea {
+    width: 50%;
+    padding: 1%;
+    margin: 1% 0;
+    border: 1px solid #181212;
+    border-radius: 1%;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    font-size: 0.8rem;
+}
+textarea {
+    height: 40px;
+    resize: none;
+}
+input[type="button"], a {
+    background: rgba(244, 238, 238, 0.3);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s ease-in-out;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    cursor: pointer;
+}
+input[type="button"]:hover, a:hover {
+    background-color: #01070b;
+    box-shadow: 0 2px 5px lab(6.89% -0.01 4.37 / 0.975);
+}
